@@ -17,6 +17,11 @@
     "rules": {
       "react/jsx-filename-extension": ["warn", { "extensions": [".js", ".jsx"] }],
       "react/react-in-jsx-scope": "off",
+      "react/prop-types":"off",
+      "max-len":"off",
+      "import/no-named-as-default":"off",
+      "jsx-a11y/label-has-associated-control":"off",
+      "jsx-a11y/control-has-associated-label":"off",
       "import/no-unresolved": "off",
       "no-shadow": "off"
     },
